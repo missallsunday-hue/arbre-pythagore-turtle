@@ -14,4 +14,4 @@ python arbre_pythagore.py
 - ← / → : changer l'angle
 - ↑ / ↓ : changer la profondeur
 
-![capture](capture.png)
+![capture](image.png)
